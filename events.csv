@@ -1,0 +1,26 @@
+roll;text;code;amount;resource
+1;Bandits harass the town, lose 10% of treasury;pincrease;10;treasury
+2;Traveling merchants come by and purchase goods from the town, Gain gold equal to 10% of income;pincrease;10;treasury
+3;Nothing happens;other;0;
+4;A group of monks bless the town as they travel through.  Divinity magic cast within the town is cast at one level higher and it is consecrated ground for the next session.;other;0;
+5;Townsfolk feel indebted to the leadership and offer to work double time. Gain 5 labor.;increase;5;labor
+6;New Townsfolk arrive from the surrounding areas. Population creases by 10;increase;10;population
+7;Druids come through the town and enrich the surrounding soil, plant growth increased;other;0;
+8;A group of traveling Barbarians wreck shit, a gnome offers to pay double for the wrecked shit to make up for it. ;increase;150;treasury
+9;A group of traveling imperial wizards stay in town for a day, they are on the look out for magical items;other;0;
+10;A group of towns people declare their succession, no one is having it and they are forced to leave to start their own town. On their way out they vow to create a better Summerfell with black jack and hookers. ;decrease;15;population
+11;Imperial auditors come by and see the town being rebuilt and add it back to their maps, they will come to collect taxes one day;other;0;
+12;Goblins attack, they are able to steal a bit of gold;decrease;50;treasury
+13;A hunting party returns with a white deer, this is seen as a good omen and the towns people have a festival to celebrate;increase;75;treasury
+14;An elven hunting party passes through, they wipe out  a large portion of the woodland deer;other ;0;
+15;A bear attacks one of the farmers, the farmers is saved by a traveling hat salesman. ;other;0;
+16;People start talking about the separation of church and state, some like the idea but others worry it will lead to moral decline. ;other;0;
+17;A fire catches at the lumber mill, no one is hurt and the equipment is ok but some of the wood is unusable;decrease;50;lumber
+18;Rumors circle that the town leadership is having an affair with another town, most people ignore the rumors but a couple people with trust issues leave;decrease;5;population
+19;A very prolific bard comes through and tells crazy tales;other;0;
+20;A dentist visits and is horrified by the teeth he sees, unfortunately dental practices in dnd are somewhat poor and his attempts to help only make it worse. Town guards upset over having the wrong tooth pulled charge an exuberant fee to let him live. ;increase;100;treasury
+21;Part of the town rubble is salvaged for more building materials;increase;100;stones
+22;A Gnome in a blue suit is noticed in town;other;0;
+23;A traveling salesman is able to convince the town to buy a giant hat, it could fit over 2 normal sized heads. Its cool, but expensive…;decrease;50;treasury
+24;A cow goes missing, two farmers are upset about it but eventually they learn to settle their differences. The cow later turns up. Pretty boring day ;other;0;
+25;;;;
